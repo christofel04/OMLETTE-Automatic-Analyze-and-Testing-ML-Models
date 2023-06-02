@@ -1,10 +1,14 @@
 # OMLETTE : Automatic Analyze and Testing ML Models
 
-As Data Scientist We Everyday have to analyze various Datasets to Understand Mathematics Pattern and Predict Dataset Value in Dataset. Usually Data Scientist and AI Engineers have to Analyze Dataset using Various Mathematics Tools. Data Scientist and AI Engineers also have to Test Various Datasets in Various Machine Learning to know the Mathematical Pattern in Datasets and what Machine Learning Process works better in the Datasets. This process of Testing Various Datasets in Various ML to know Pattern in the Datasets have to be done every day.
+As Data Scientist We Everyday have to analyze various Datasets to Understand Mathematics Pattern and Predict Dataset Value in Dataset. Usually Data Scientist and AI Engineers have to Analyze Dataset using Various Mathematics Tools. Data Scientist and AI Engineers also have to Test Various Datasets in Various Machine Learning to know the Mathematical Pattern in Datasets and what Machine Learning Process works better in the Datasets. 
 
-**That's why We Introduce OMLETTE : Automatic Analyze and Testing ML Models***
+This process of Testing Various Datasets in Various ML to know Pattern in the Datasets have to be done every day.
+
+***That's why We Introduce OMLETTE : Automatic Analyze and Testing ML Models***
 
 OMLETTE Automatically Analyze Pattern in Datasets using various mathematics tools and automatically testing various Machine Learning Process to understand what is pattern in Datasets and what Machine Learning Process works better in the Dataset. OMLETTE automatically process and Testing various Dataset using Fast Process Algorithms hence Data Scientist and AI Engineers can understand what Machine Learning Process works better in the Dataset. OMLETTE automatically test various Datasets in various ML Models from Simple ML Models like Linear Regression and Logistic Regression to Complex ML Models Random Forest ML Process and XGBoost ML Process. OMLETTE also automatically Analyze various Features in Dataset using various mathematics tools hence Data Scientist and AI Engineers can know what Pattern in Dataset and what Features predicts Dataset well. OMLETTE also very easy to use to make Data Scientist and AI Engineer automatically analyze and testing various ML Models in various Datasets.
+
+![Alt Text](https://github.com/christofel04/OMLETTE-Automatic-Analyze-and-Testing-ML-Models/blob/main/Omlette%20Images/omlette-logo.png)
 
 ## Why using OMLETTE Package ?
 
@@ -15,7 +19,11 @@ OMLETTE Package is Automatic Analyze and Testing ML Models to automatically anal
 3. **OMLETTE Package uses Fast Process Algorithms to make Data Scientist and AI Engineers automatically Analyze and Testing various ML Models in various Dataset**
 4. **OMLETTE Package is Open Source C++ and Python based Packages to make Data Scientist and AI Engineers Automatically Analyze and Testing various ML Models in various Datasets.**
 
+![Alt Text]( https://github.com/christofel04/OMLETTE-Automatic-Analyze-and-Testing-ML-Models/blob/main/Omlette%20Images/Omlette%20Logo.drawio.png )
+
 ## How to Use OMLETTE Package ?
+
+![Alt Text]( https://github.com/christofel04/OMLETTE-Automatic-Analyze-and-Testing-ML-Models/blob/main/Omlette%20Images/Tutorial%20OMLETTE.gif )
 
 OMLETTE Package is easy to use Automatic analyze and testing various ML Models in various datasets. First Data Scientist and AI Engineer have to clone OMLETTE Package Github Repository as below.
 
